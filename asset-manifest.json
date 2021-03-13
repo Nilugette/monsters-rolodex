@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//Nilugette.github.io/monsters-rolodex/static/css/main.2ed9e039.chunk.css",
+    "main.js": "/https//Nilugette.github.io/monsters-rolodex/static/js/main.40bf956b.chunk.js",
+    "main.js.map": "/https//Nilugette.github.io/monsters-rolodex/static/js/main.40bf956b.chunk.js.map",
+    "runtime-main.js": "/https//Nilugette.github.io/monsters-rolodex/static/js/runtime-main.7446128a.js",
+    "runtime-main.js.map": "/https//Nilugette.github.io/monsters-rolodex/static/js/runtime-main.7446128a.js.map",
+    "static/js/2.00534685.chunk.js": "/https//Nilugette.github.io/monsters-rolodex/static/js/2.00534685.chunk.js",
+    "static/js/2.00534685.chunk.js.map": "/https//Nilugette.github.io/monsters-rolodex/static/js/2.00534685.chunk.js.map",
+    "index.html": "/https//Nilugette.github.io/monsters-rolodex/index.html",
+    "static/css/main.2ed9e039.chunk.css.map": "/https//Nilugette.github.io/monsters-rolodex/static/css/main.2ed9e039.chunk.css.map",
+    "static/js/2.00534685.chunk.js.LICENSE.txt": "/https//Nilugette.github.io/monsters-rolodex/static/js/2.00534685.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7446128a.js",
+    "static/js/2.00534685.chunk.js",
+    "static/css/main.2ed9e039.chunk.css",
+    "static/js/main.40bf956b.chunk.js"
+  ]
+}
